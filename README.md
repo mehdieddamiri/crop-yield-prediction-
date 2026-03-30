@@ -1,12 +1,12 @@
-# 🌾 Crop Yield Prediction Project
+# Crop Yield Prediction Project
 
-## 📖 Description
+## Description
 This project focuses on analyzing and predicting agricultural crop yields using data science and machine learning techniques. It includes data exploration, visualization, preprocessing, and model building.
 
-## 🎯 Objective
+## Objective
 The main objective is to predict crop yield based on various factors such as environmental conditions and agricultural practices.
 
-## 📊 Dataset
+## Dataset
 The dataset used in this project contains information about:
 - Crop type
 - Region
@@ -15,7 +15,7 @@ The dataset used in this project contains information about:
 - Soil characteristics
 - Yield (target variable)
 
-## 🔍 Project Steps
+## Project Steps
 
 ### 1. Data Loading
 - Import dataset using Pandas
@@ -42,8 +42,8 @@ The dataset used in this project contains information about:
 - Model training using Scikit-learn
 - Prediction of crop yield
 
-## ⚙️ Technologies Used
-- Python 🐍
+## Technologies Used
+- Python  
 - Pandas
 - NumPy
 - Matplotlib
@@ -51,7 +51,7 @@ The dataset used in this project contains information about:
 - Scikit-learn
 - SciPy
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
